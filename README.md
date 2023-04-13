@@ -1,6 +1,7 @@
 # es_unb_2023_1
 
 Diagrama Registro de Presença Engenharia de Software
+
 Tela 1 – Login 
 
 O usuário, pré-cadastrado em outro sistema, informa matrícula e senha. O usuário pode ser de dois tipos: professor ou aluno. O comportamento do sistema após o login varia conforme o tipo de usuário 
